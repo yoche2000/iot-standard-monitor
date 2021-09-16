@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>alarm (1).png</file>
+    <file>1200px-IEEE_logo.svg.png</file>
+    <file>sensorteds.PNG</file>
+    <file>radioteds.PNG</file>
+  </qresource>
+</RCC>
