@@ -13,7 +13,7 @@ The data be published are 'temperature' and 'humidity'
 
 The server UI demonstrates the receiving data at the server side, showing the realtime temperature humidity. The IDex value is derived based on the data accuracy (In this case, based on temperature data to make it simple). 2 IEEE 1451 TEDS charts are also shown on the UI.
 
-##Client UI
+## Client UI
 
 ![Client UI](https://i.imgur.com/LD412uL.jpg)
 
