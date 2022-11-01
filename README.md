@@ -1,6 +1,4 @@
-# loraiot1372
-The projects listed are those yoche2000 participated as a member of CityU IoT Standard Research Group.
+# IoT Standad Monitor
+A monitoring program to demonstrate the IEEE P1451 and P2668 standards. In the demonstration, an NB-IoT system is used.
 
-## IEEE P2668 Demonstration 210916
-A duo-ui program to demonstrate the NCAP and client side of an IEEE P2668 NB-Iot system
 ![NCAP UI](https://i.imgur.com/mA2cL4W.jpg)
